@@ -40,7 +40,12 @@ Currently, I’m exploring **LLM-based automation** and **intelligent reporting 
 
 ### 🧠 **R&D Engineer Intern – 2Peerfect Company (EdTech), Rabat** *(07/2024 – 09/2024)*  
 - Built a **multilingual TTS system** for Moroccan Arabic (Darija).  
-- Designed data architectures for multilingual voice synthesis.  
+- Designed data architectures for multilingual voice synthesis.
+
+### 🧮 **Data Engineer Intern – USMBA Department of Computer Science, Fès** *(05/2023 – 09/2023)*  
+- Developed a **desktop application** for **trading strategy simulation** and **risk analysis**.  
+- Built data pipelines for **backtesting and financial modeling**.  
+- Delivered a functional tool used for **teaching and experimentation** purposes. 
 
 ---
 
