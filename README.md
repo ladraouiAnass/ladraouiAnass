@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist | AI & Data Engineering | Cloud & DevOps Enthusiast**  
 📍 Île-de-France, France | ✉️ [anassladraoui@gmail.com](mailto:anassladraoui@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ladraouianass/) | 💻 [Portfolio](#) *(add your link here)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/ladraouianass/) | 💻 [Portfolio](https://ladraouianass.github.io/anassladraoui.github.io/) *(add your link here)*  
 
 ---
 
